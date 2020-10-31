@@ -15,9 +15,7 @@ Last Style Storage: Meme
 Video File: dead-eyed-and-heartbroken.png
 Video AR Mode: 4
 Video AR Value: 0.715072
-Video Zoom Percent: 0.375000
-Scroll Position: 1
-Active Line: 3
+Video Zoom Percent: 0.748625
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,10 +23,6 @@ Style: Default,Arial,92,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:05.00,Default,*bord,0,0,0,,{\pos(164.548,891.713)\fs61.161\frz5.61\fax-0.07\fscx75\clip(m 16.875 781.375 l 284.5 775.25 307.375 805.75 b 296.75 808.875 273.75 811.875 269.125 818 253.875 847.125 229.375 944.875 217.125 987.75 l 6.125 1007.625)\blur0.382}Okay-quality \N\h\hbut fast \Nrelease
-Dialogue: 0,0:00:00.00,0:00:05.00,Default,bord,0,0,0,done,{\pos(164.548,891.713)\1c&H000000&\bord4.587\fs61.161\frz5.61\fax-0.07\fscx75\clip(m 16.875 781.375 l 284.5 775.25 307.375 805.75 b 296.75 808.875 273.75 811.875 269.125 818 253.875 847.125 229.375 944.875 217.125 987.75 l 6.125 1007.625)\blur0.505}Okay-quality \N\h\hbut fast \Nrelease
-Dialogue: 1,0:00:00.00,0:00:05.00,Default,bord,0,0,0,done,{\pos(164.548,891.713)\bord0\fs61.161\frz5.61\fax-0.07\fscx75\clip(m 16.875 781.375 l 284.5 775.25 307.375 805.75 b 296.75 808.875 273.75 811.875 269.125 818 253.875 847.125 229.375 944.875 217.125 987.75 l 6.125 1007.625)\blur0.505}Okay-quality \N\h\hbut fast \Nrelease
-Comment: 0,0:00:00.00,0:00:05.00,Default,*bord,0,0,0,,{\pos(447.877,907.501)\fs68.806\fax-0.11\clip(m 309 784 l 543 784 550 1083 309 1083)\fscx90\frz6.541\blur0.229}Average\N\hanime \Nwatcher
-Dialogue: 0,0:00:00.00,0:00:05.00,Default,bord,0,0,0,done,{\pos(447.877,907.501)\1c&H000000&\bord4.587\fs68.806\fax-0.11\clip(m 309 784 l 543 784 550 1083 309 1083)\fscx90\frz6.541\blur0.229}Average\N\hanime \Nwatcher
-Dialogue: 1,0:00:00.00,0:00:05.00,Default,bord,0,0,0,done,{\pos(447.877,907.501)\bord0\fs68.806\fax-0.11\fscx90\frz6.541\blur0.229\clip(m 309 784 l 543 784 550 1083 309 1083)}Average\N\hanime \Nwatcher
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\an8\pos(226.071,547.334)\fs61.161}Okay-quality \N\h\hbut fast \Nrelease
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\pos(447.877,907.501)\fs68.806\fax0.01\fscx85\blur0.229\frz3.765}Average\N\hanime \Nwatcher
 Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\pos(849.292,1371.151)\fax0.05\frz357.3\fscx95}High-quality \Nbut slow \Nrelease
