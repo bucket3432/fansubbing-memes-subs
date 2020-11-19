@@ -11,6 +11,7 @@ These sources were created with [Aegisub](http://www.aegisub.org/) and have only
 
 ## `myne-does-qc`
 
+* **r/FansubbingMemes post**: "[Myne Does QC](https://www.reddit.com/r/FansubbingMemes/comments/jwunwp/myne_does_qc/)" (posted 2020-11-19) ([Typeset version](https://www.reddit.com/user/bucket3432/comments/jwunxn/myne_does_qc_typeset_version/))
 * **Image source**: [Maine Smash](https://www.reddit.com/r/Animemes/comments/dfma43/maine_smash/f345ux0/) by /u/zombachu ([Imgur](https://imgur.com/O7iF16x))
 
 ## `pulls-out-aegisub`
