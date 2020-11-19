@@ -9,6 +9,10 @@ These sources were created with [Aegisub](http://www.aegisub.org/) and have only
 * **r/FansubbingMemes post**: "[Anime Watchers](https://www.reddit.com/r/FansubbingMemes/comments/jldhln/anime_watchers/)" (posted 2020-10-29)
 * **Image source**: [Dead Eyed and Heartbroken](https://www.reddit.com/r/animemebank/comments/dxvtzm/template_dead_eyed_and_heartbroken_original_image/) by /u/EndTEmpire
 
+## `myne-does-qc`
+
+* **Image source**: [Maine Smash](https://www.reddit.com/r/Animemes/comments/dfma43/maine_smash/f345ux0/) by /u/zombachu ([Imgur](https://imgur.com/O7iF16x))
+
 ## `pulls-out-aegisub`
 
 * **r/FansubbingMemes post**: "[Pulls Out Aegisub](https://www.reddit.com/r/FansubbingMemes/comments/jiri7o/pulls_out_aegisub/)" (posted 2020-10-31)
