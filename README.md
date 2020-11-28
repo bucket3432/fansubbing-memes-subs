@@ -14,6 +14,11 @@ These sources were created with [Aegisub](http://www.aegisub.org/) and have only
 * **r/FansubbingMemes post**: "[Myne Does QC](https://www.reddit.com/r/FansubbingMemes/comments/jwunwp/myne_does_qc/)" (posted 2020-11-19) ([Typeset version](https://www.reddit.com/user/bucket3432/comments/jwunxn/myne_does_qc_typeset_version/))
 * **Image source**: [Maine Smash](https://www.reddit.com/r/Animemes/comments/dfma43/maine_smash/f345ux0/) by /u/zombachu ([Imgur](https://imgur.com/O7iF16x))
 
+## `optimized-for-libass`
+
+* **r/FansubbingMemes post**: "[Optimized for libass](https://www.reddit.com/r/FansubbingMemes/comments/k2izn1/optimized_for_libass/)" (posted 2020-11-28)
+* **Image source**: [Unexpected basketball](https://www.reddit.com/r/animemebank/comments/e1a0kx/template_unexpected_basketball/) by /u/bucket3432
+
 ## `pulls-out-aegisub`
 
 * **r/FansubbingMemes post**: "[Pulls Out Aegisub](https://www.reddit.com/r/FansubbingMemes/comments/jiri7o/pulls_out_aegisub/)" (posted 2020-10-31)
