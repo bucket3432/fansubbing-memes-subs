@@ -9,6 +9,11 @@ These sources were created with [Aegisub](http://www.aegisub.org/) and have only
 * **r/FansubbingMemes post**: "[Anime Watchers](https://www.reddit.com/r/FansubbingMemes/comments/jldhln/anime_watchers/)" (posted 2020-10-29)
 * **Image source**: [Dead Eyed and Heartbroken](https://www.reddit.com/r/animemebank/comments/dxvtzm/template_dead_eyed_and_heartbroken_original_image/) by /u/EndTEmpire
 
+## `getting-paid`
+
+* **r/FansubbingMemes post**: "[Getting Paid](https://www.reddit.com/r/FansubbingMemes/comments/ntwyzo/getting_paid/)" (posted 2021-06-07)
+* **Image source**: Modified from the [template by u/2015071](https://www.reddit.com/r/MemeEconomy/comments/9zj1q6/meme_format_with_a_lot_of_potential_invest/ea9inq8/).
+
 ## `myne-does-qc`
 
 * **r/FansubbingMemes post**: "[Myne Does QC](https://www.reddit.com/r/FansubbingMemes/comments/jwunwp/myne_does_qc/)" (posted 2020-11-19) ([Typeset version](https://www.reddit.com/user/bucket3432/comments/jwunxn/myne_does_qc_typeset_version/))
