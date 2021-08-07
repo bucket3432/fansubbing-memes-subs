@@ -19,6 +19,11 @@ These sources were created with [Aegisub](http://www.aegisub.org/) and have only
 * **r/FansubbingMemes post**: "[Myne Does QC](https://www.reddit.com/r/FansubbingMemes/comments/jwunwp/myne_does_qc/)" (posted 2020-11-19) ([Typeset version](https://www.reddit.com/user/bucket3432/comments/jwunxn/myne_does_qc_typeset_version/))
 * **Image source**: [Maine Smash](https://www.reddit.com/r/Animemes/comments/dfma43/maine_smash/f345ux0/) by /u/zombachu ([Imgur](https://imgur.com/O7iF16x))
 
+## `new-format`
+
+* **r/FansubbingMemes post**: "[New Format](https://www.reddit.com/r/FansubbingMemes/comments/p01f4a/new_format/)" (posted 2021-08-08)
+* **Image source**: [Erwin meme](https://www.reddit.com/user/SharkTRS/comments/7r6qap/heres_the_template_for_them_erwin_memes/dydsfbj/)
+
 ## `optimized-for-libass`
 
 * **r/FansubbingMemes post**: "[Optimized for libass](https://www.reddit.com/r/FansubbingMemes/comments/k2izn1/optimized_for_libass/)" (posted 2020-11-28)
