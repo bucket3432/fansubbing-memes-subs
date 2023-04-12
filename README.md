@@ -9,6 +9,11 @@ These sources were created with [Aegisub](http://www.aegisub.org/) and have only
 * **r/FansubbingMemes post**: "[Anime Watchers](https://www.reddit.com/r/FansubbingMemes/comments/jldhln/anime_watchers/)" (posted 2020-10-29)
 * **Image source**: [Dead Eyed and Heartbroken](https://www.reddit.com/r/animemebank/comments/dxvtzm/template_dead_eyed_and_heartbroken_original_image/) by /u/EndTEmpire
 
+## `fansubber-diy`
+
+* **r/FansubbingMemes post**: "[When prosubs are not enough](https://www.reddit.com/r/FansubbingMemes/comments/12j5gpt/when_prosubs_are_not_enough/)" (posted 2023-04-11)
+* **GIF source**: [Anime Diy GIF](https://tenor.com/view/anime-diy-do-it-yourself-paint-painting-gif-27116682)
+
 ## `getting-paid`
 
 * **r/FansubbingMemes post**: "[Getting Paid](https://www.reddit.com/r/FansubbingMemes/comments/ntwyzo/getting_paid/)" (posted 2021-06-07)
